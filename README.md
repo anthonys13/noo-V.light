@@ -1,4 +1,4 @@
-# N0o' ![alt](./client/public/favicon.ico)
+# N0o' ![alt](./favicon.ico)
 Noo est une application de discussion instantanée! Il vous permettra de joindre vos proches ou de nouvelles connaissances sur une plateforme entièrement gratuite
 
 **Techno pour le projet**
@@ -15,4 +15,4 @@ Noo est une application de discussion instantanée! Il vous permettra de joindre
     - Stream ( chatting real time )
     - Twilio ( sms sending)
 
-![alt](./client/src/assets/Noo.png)
+![alt](./Noo.png)
